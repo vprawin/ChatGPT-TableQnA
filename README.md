@@ -7,7 +7,7 @@ TAPAS (Task Adaption for Parsimonious Attention) is a type of transformer-based 
 
 TAPAS was introduced in a research paper by Google AI in 2020 and has since been used for various NLP tasks such as question-answering, text classification, and entity recognition. One of the unique features of TAPAS is its ability to efficiently process tabular data while still being able to leverage the pre-training and transfer learning capabilities of the BERT architecture.
 
-ChatGPT4 is currently not capable of uploading Data and Responsding to queries based on the data. Hence we are leveragin the ChatGPT's sequential questioning capabilities to train it to understand the table struncture and respond back with SQL Queries. Later SQL is used to Query Data and respond back to user
+ChatGPT4 is currently not capable of uploading Data and Responsding to queries based on the data. Hence we are leveraging the ChatGPT's sequential questioning capabilities to train it to understand the table struncture and respond back with SQL Queries. Later SQL is used to Query Data and respond back to user
 
 Note:
   1. OpenAI Python Libraries are limited to ChatGPT-3.5 model and only selected users are allowed to use ChatGPT-4
